@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101_Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **April Zhou**
 
-**Name of your app** is an app that... [TODO] 
+**IOS101_Prework** is an app that allows users to change the background to a random color by clicking a button. 
 
-Time spent: **X** hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## Required Features
 
