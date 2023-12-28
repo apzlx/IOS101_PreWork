@@ -4,7 +4,7 @@ Submitted by: **April Zhou**
 
 **IOS101_Prework** is an app that allows users to change the background to a random color by clicking a button. 
 
-Time spent: **0.5** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
